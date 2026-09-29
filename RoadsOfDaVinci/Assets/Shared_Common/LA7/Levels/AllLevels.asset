@@ -423,12 +423,12 @@ MonoBehaviour:
     MapArtifact: {fileID: 0}
   - levelNum: 25
     level:
-      m_AssetGUID: 4affc658900f546428a68dbbae811ae0
+      m_AssetGUID: 137296aaa5e382e4c8a2b74e2fe7bb6b
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
       m_EditorAssetChanged: 1
-    locationNum: 3
+    locationNum: 25
     guide:
       m_AssetGUID: 
       m_SubObjectName: 
@@ -440,12 +440,12 @@ MonoBehaviour:
     MapArtifact: {fileID: 11400000, guid: 1b3947ab83ae51b4d99c63d1bc4e4831, type: 2}
   - levelNum: 26
     level:
-      m_AssetGUID: af46cb8a9a831f74b98fbbad3ecea7d1
+      m_AssetGUID: 53d6df3139cb86c4d9ae2958145fd090
       m_SubObjectName: 
       m_SubObjectType: 
       m_SubObjectGUID: 
       m_EditorAssetChanged: 1
-    locationNum: 3
+    locationNum: 26
     guide:
       m_AssetGUID: 
       m_SubObjectName: 

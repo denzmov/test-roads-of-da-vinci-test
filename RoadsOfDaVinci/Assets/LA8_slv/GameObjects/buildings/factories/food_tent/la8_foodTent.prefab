@@ -794,6 +794,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: al8_FoodTentBroken
       objectReference: {fileID: 0}
+    - target: {fileID: 3981286343930499267, guid: 86c1566c78ac4034d99602c45f24b067, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 3595879352306671634}
     - target: {fileID: 4721000009182096840, guid: 86c1566c78ac4034d99602c45f24b067, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -854,6 +858,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0d494f2c1874299b097b043c25ef0c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!212 &3595879352306671634 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 953691189139570013, guid: 86c1566c78ac4034d99602c45f24b067, type: 3}
+  m_PrefabInstance: {fileID: 4385116449571855695}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &9034023299588944007 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4721000009182096840, guid: 86c1566c78ac4034d99602c45f24b067, type: 3}
