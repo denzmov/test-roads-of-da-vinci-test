@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11c1d913d5af4f79bb2294cabde04c2d, type: 3}
   m_Name: Lvl26_EpicHintSO
   m_EditorClassIdentifier: 
-  panelReference: {fileID: 11400000, guid: 01c016232a93f1341899c510a59bc9ec, type: 2}
+  panelReference: {fileID: 11400000, guid: 61426a5c082b32a458330a5d126d129b, type: 2}
   isSequence: 0
   actionsToOpen: 
   actionsToClose: 
@@ -20,5 +20,6 @@ MonoBehaviour:
   id: 0
   pauseLevelTimer: 1
   unskipTutorial: 1
+  unskipStages: 
   showAboveHud: 1
   blockHudInput: 1

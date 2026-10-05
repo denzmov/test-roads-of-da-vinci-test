@@ -29,7 +29,7 @@ MonoBehaviour:
   <OverrideIgnoreIdleHighlight>k__BackingField: 0
   <TaskRegisterSound>k__BackingField: {fileID: 0}
   <Interacting>k__BackingField: {fileID: 8300000, guid: aec93bc347297ee4daf2c8774241b104, type: 3}
-  <InteractingFrequencyMultiplier>k__BackingField: 1.26
+  <InteractingFrequencyMultiplier>k__BackingField: 1.65
   <InteractionEnd>k__BackingField: {fileID: 0}
   <CanInteract>k__BackingField: 1
   <InteractionsAmount>k__BackingField: 0
@@ -39,7 +39,9 @@ MonoBehaviour:
   - <Resource>k__BackingField: {fileID: 11400000, guid: 7e08d6d3a816fb74da6131186c483a18, type: 2}
     <Amount>k__BackingField: 3
   <InteractionHaveOutputResources>k__BackingField: 0
-  <OutputResources>k__BackingField: []
+  <OutputResources>k__BackingField:
+  - <Resource>k__BackingField: {fileID: 11400000, guid: 31359a86fe1414f45bacc66aebc8cd02, type: 2}
+    <Amount>k__BackingField: 1
   <InteractionTime>k__BackingField: 3
   <UseTaskView>k__BackingField: 1
   <InteractionType>k__BackingField: 1

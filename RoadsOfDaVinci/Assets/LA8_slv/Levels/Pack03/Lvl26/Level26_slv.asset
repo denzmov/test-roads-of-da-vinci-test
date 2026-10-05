@@ -27,10 +27,16 @@ MonoBehaviour:
   _haveFinalPoint: 0
   _guide: {fileID: 0}
   _levelPveStartImage: {fileID: 0}
-  _startResources: []
+  _startResources:
+  - <Resource>k__BackingField: {fileID: 11400000, guid: 1dc2622bfb26d674498a0d99be15ab14, type: 2}
+    <Amount>k__BackingField: 1000
+  - <Resource>k__BackingField: {fileID: 11400000, guid: 7e08d6d3a816fb74da6131186c483a18, type: 2}
+    <Amount>k__BackingField: 1000
+  - <Resource>k__BackingField: {fileID: 11400000, guid: b2d080b590e552c4bb287d45795699de, type: 2}
+    <Amount>k__BackingField: 1000
   _levelTasks:
-  - {fileID: 11400000, guid: 6384ff6f9cf45a5469ca27b8ee0a7349, type: 2}
-  - {fileID: 11400000, guid: 0698af45ce22beb439ffab0a8e1cb70b, type: 2}
+  - {fileID: 11400000, guid: f077012c42095f64e9c5774414290d86, type: 2}
+  - {fileID: 11400000, guid: 2b59aaf768c543a458bf6a32f3f0901f, type: 2}
   _music: {fileID: 8300000, guid: 91ad9ce18c9222b46a3e42afd6a852c6, type: 3}
   _levelTimerData:
     <GameplayIntervalGeneralParameters>k__BackingField:

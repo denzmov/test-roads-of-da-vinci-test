@@ -668,11 +668,11 @@ MonoBehaviour:
   autoKill: 1
   autoGenerate: 0
   isActive: 1
-  isValid: 0
+  isValid: 1
   target: {fileID: 4828560644943841353}
   animationType: 7
   targetType: 2
-  forcedTargetType: 2
+  forcedTargetType: 0
   autoPlay: 0
   useTargetAsV3: 0
   endValueFloat: 1
@@ -1064,11 +1064,11 @@ MonoBehaviour:
   autoKill: 1
   autoGenerate: 0
   isActive: 1
-  isValid: 0
+  isValid: 1
   target: {fileID: 4828560644943841353}
   animationType: 7
   targetType: 2
-  forcedTargetType: 2
+  forcedTargetType: 0
   autoPlay: 0
   useTargetAsV3: 0
   endValueFloat: 0
