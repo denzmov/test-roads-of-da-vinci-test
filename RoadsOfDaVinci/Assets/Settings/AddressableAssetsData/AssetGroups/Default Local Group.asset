@@ -365,6 +365,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd164adfc53be9149bdc3d4c8a9d09b6
+    m_Address: Assets/LA8_slv/Levels/Pack03/Lvl26/epicHintTop/Lvl26_EpicHint.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: de46e4bd157874347b3965bb7b7b4bad
     m_Address: Assets/LA8_slv/Levels/Pack01/Lvl02/LevelTutorial/NewTutor/Lvl02Tutorial1.prefab
     m_ReadOnly: 0

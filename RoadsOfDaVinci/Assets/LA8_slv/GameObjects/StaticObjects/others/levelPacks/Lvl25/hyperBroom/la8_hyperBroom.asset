@@ -18,16 +18,6 @@ MonoBehaviour:
   <IsStealable>k__BackingField: 0
   <StealerTagsContainsMode>k__BackingField: 0
   <StealerObjectTags>k__BackingField: []
-  <DiseasableData>k__BackingField:
-    <IsDiseasable>k__BackingField: 0
-    <DiseaseIconColor>k__BackingField: {r: 0, g: 0, b: 0, a: 0}
-    <MaxDiseasedUnits>k__BackingField: 0
-    <HealSounds>k__BackingField: {fileID: 0}
-  <BreakableData>k__BackingField:
-    <IsBreakable>k__BackingField: 0
-    <BreakableMinInterval>k__BackingField: 100
-    <BreakableMaxInterval>k__BackingField: 150
-    <Sounds>k__BackingField: {fileID: 0}
   <CanReactToPrimaryAction>k__BackingField: 1
   <CanReactToSecondaryAction>k__BackingField: 1
   <BlocksPath>k__BackingField: 1
